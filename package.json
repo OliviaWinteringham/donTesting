@@ -1,0 +1,14 @@
+{
+  "name": "week11testingcodewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "DonDrumphetTesting.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.7.1"
+  }
+}
